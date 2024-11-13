@@ -1,5 +1,5 @@
 # Manim-GUI
-Graphical user interface for the Manim library.\
+Web based graphical user interface for the Manim library.\
 WORK IN PROGRESS ⚠️
 
 
