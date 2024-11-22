@@ -1,6 +1,7 @@
 # Manim GUI
-Web based graphical user interface for the Manim library.\
-The idea is to make an easy to use, node-based (like geometry nodes in blender for example) web interface on top of the manim library that'll make it easier and faster to script animations or presentations. It'll as well as integrate a live* animation preview (*as fast as we can get it to be), project saving, etc..\
+Web based graphical user interface for the Manim library.
+
+The idea is to make an easy to use, node-based (like geometry nodes in blender for example) web interface on top of the manim library that'll make it easier and faster to script animations or presentations. It'll as well as integrate a live* animation preview (*as fast as we can get it to be), project saving, etc...\
 At least that's the current path being worked on.
 
 WORK IN PROGRESS ⚠️
